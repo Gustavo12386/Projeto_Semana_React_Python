@@ -1,7 +1,7 @@
-# API_Cadastro_de_Alunos
+# Projeto_Semana_React_Python
 
 ## Sobre o projeto
-- O projeto API_Cadastro_de_Alunos é uma API desenvolvida para integrar um sistema educacional voltado aos professores da TreinaWEB. Ela permite o cadastro de alunos,
+- O projeto da Semana React Python trata-se de uma API desenvolvida para integrar um sistema educacional voltado aos professores da TreinaWEB. Ela permite o cadastro de alunos,
 possibilitando que cada aluno informe seu nome e e-mail para se inscrever em uma aula.
 
 ## Tecnologias utilizadas:
