@@ -8,7 +8,7 @@ possibilitando que cada aluno informe seu nome e e-mail para se inscrever em uma
 - HTML5, CSS3, TypeScript(TSX), React, Next.js, Bootstrap, Python e Django e SqLite.
 
 ### Link do repositório front-end
-- https://github.com/Gustavo12386/Repositorio_djangonext-frontend-
+- https://github.com/Gustavo12386/Projeto_Semana_React_Python-frontend-
 
 ### Link do repositório back-end
 https://github.com/Gustavo12386/Repositorio_djangonext-frontend-
