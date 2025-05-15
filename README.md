@@ -1,20 +1,16 @@
-# projeto-djangonext
+# API_Cadastro_de_Alunos
 
 ## Sobre o projeto
-
-O projeto djangonext é uma aplicação WEB feita com django, react e next.js feito na semana react e python da TreinaWEB.
-
-A aplicação consisite em uma página, no qual mostra um cadastro de um aluno em uma determinada aula de um professor onde ele irá inserir o seu nome e o seu email para se cadastrar na aula
+- O projeto API_Cadastro_de_Alunos é uma API desenvolvida para integrar um sistema educacional voltado aos professores da TreinaWEB. Ela permite o cadastro de alunos,
+possibilitando que cada aluno informe seu nome e e-mail para se inscrever em uma aula.
 
 ## Tecnologias utilizadas:
-- HTML5, CSS3, TypeScript(JSX), Bootstrap, Python e Django e SqLite.
+- HTML5, CSS3, TypeScript(TSX), React, Next.js, Bootstrap, Python e Django e SqLite.
 
 ### Link do repositório front-end
-
-https://github.com/Gustavo12386/Repositorio_djangonext-frontend-
+- https://github.com/Gustavo12386/Repositorio_djangonext-frontend-
 
 ### Link do repositório back-end
-
 https://github.com/Gustavo12386/Repositorio_djangonext-frontend-
 
 # Imagens
@@ -23,7 +19,4 @@ https://github.com/Gustavo12386/Repositorio_djangonext-frontend-
 ![p3](https://user-images.githubusercontent.com/81700849/196262597-0ce0024f-49c7-45ae-8d4f-81355ccebb37.PNG)
 
 # Autor
-
-Gustavo Viana Calderaro Nogueira
-
-https://www.linkedin.com/in/gustavo-viana-95206520a/
+Gustavo Calderaro 
