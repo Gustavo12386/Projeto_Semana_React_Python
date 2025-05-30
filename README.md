@@ -1,7 +1,7 @@
 # Projeto_Semana_React_Python
 
 ## Sobre o projeto
-- O projeto da Semana React Python trata-se de uma API desenvolvida para integrar um sistema educacional voltado aos professores da TreinaWEB. Ela permite o cadastro de alunos,
+- O projeto da Semana React Python trata-se de uma API junto com uma interface front-end desenvolvida para integrar um sistema educacional voltado aos professores da TreinaWEB. Ela permite o cadastro de alunos,
 possibilitando que cada aluno informe seu nome e e-mail para se inscrever em uma aula.
 
 ## Tecnologias utilizadas:
